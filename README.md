@@ -1,4 +1,4 @@
-# Graphs optimization
+# Graph optimization
 
 Implementation of different versions of Prim's algorithm, a naive one and a more advanced one involving binary heaps.
 For instance, with the graph defined here in edges.txt, we get the following result:
